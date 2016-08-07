@@ -1,1 +1,138 @@
-
+{
+  "channel": {
+    "title":"dex.fm",
+    "description":"A Japanese podcast about Android.",
+    "link":"https://dexfm.tumblr.com",
+    "rss":"http://feeds.feedburner.com/dexfm",
+    "thumbnail":"http://dexfm.github.io/img/icon_itunes.png",
+    "keywords":"Android,tech"
+  },
+  "items":[
+    {
+      "id":"6",
+      "title":"5: How googler works",
+      "subTitle":"@yuichi_arakiさんをゲストに迎えて、昨今のAndroid開発について話しました。",
+      "description":"&lt;p&gt;&lt;a href=\"https://twitter.com/yuichi_araki\"&gt;@yuichi_araki&lt;/a&gt;さんをゲストに迎えて、昨今のAndroid開発について話しました。&lt;/p&gt;&lt;p&gt;&lt;audio preload=\"auto\" controls src=\"http://dexfm.github.io/mp3/dexfm-ep005-how-googler-works-20160711.mp3\"&gt;&lt;/audio&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"http://feeds.feedburner.com/dexfm\"&gt;podcast feed&lt;/a&gt;を購読するか、&lt;a href=\"http://dexfm.github.io/mp3/dexfm-ep005-how-googler-works-20160711.mp3\" rel=\"enclosure\"&gt;DL&lt;/a&gt;してお楽しみ下さい。&lt;/p&gt;&lt;h2&gt;Show Notes:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.reddit.com/r/androiddev/comments/4fguas/agera_reactive_programming_for_android_by_google/\"&gt;AGERA - Reactive Programming for Android by Google : androiddev&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://www.reddit.com/r/androiddev/comments/4pqm41/common_questions_on_asynctask_rxjava_mentioned/\"&gt;Common questions on AsyncTask (RxJava mentioned also) - Android Performance Patterns / Colt McAnlis : androiddev&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://speakerdeck.com/konifar/androidniokeruiinebotanfalsedong-zuo-falseshi-zhuang\"&gt;Androidにおけるいいねボタンの動作の実装 // Speaker Deck&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://github.com/gfx/Android-Orma\"&gt;gfx/Android-Orma: A lightning-fast ORM for Android as a wrapper of SQLiteDatabase&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Contact:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/dexfmpodcast\"&gt;@dexfmpodcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hydrakecat\"&gt;@hydrakecat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hotchemi\"&gt;@hotchemi&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/yuichi_araki\"&gt;@yuichi_araki&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src=\"http://feeds.feedburner.com/~r/dexfm/~4/v88gBCBPh8E\" height=\"1\" width=\"1\" alt=\"\"/&gt;",
+    "link":"https://dexfm.tumblr.com/post/147211007738",
+    "pubDate":"Mon, 11 Jul 2016 08:51:28 +0900",
+    "contributor": [
+      {
+        "name": "hydrecat"
+      },
+      {
+        "name":"hotchemi"
+      },
+      {
+        "name":"yuichi_araki"
+      }
+    ],
+    "duration":"33:44",
+    "fileSize":"48582448",
+    "enclosure":"http://dexfm.github.io/mp3/dexfm-ep005-how-googler-works-20160711.mp3"
+    },
+    {
+      "id":"5",
+      "title":"4: Support library",
+      "subTitle":"@yuichi_arakiさんをゲストに迎えて、support library、flexbox-layoutなどについて話しました。",
+      "description":"&lt;p&gt;&lt;a href=\"https://twitter.com/yuichi_araki\"&gt;@yuichi_araki&lt;/a&gt;さんをゲストに迎えて、support library、flexbox-layoutなどについて話しました。&lt;/p&gt;&lt;p&gt;&lt;audio preload=\"auto\" controls src=\"https://dexfm.github.io/mp3/dexfm-ep004-support-library-20160704.mp3\"&gt;&lt;/audio&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"http://feeds.feedburner.com/dexfm\"&gt;podcast feed&lt;/a&gt;を購読するか、&lt;a href=\"https://dexfm.github.io/mp3/dexfm-ep004-support-library-20160704.mp3\" rel=\"enclosure\"&gt;DL&lt;/a&gt;してお楽しみ下さい。&lt;/p&gt;&lt;h2&gt;Show Notes:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://developer.android.com/topic/libraries/support-library/index.html\"&gt;Support Library | Android Developers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://developer.android.com/topic/libraries/support-library/features.html#design\"&gt;Support Library Features | Android Developers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://www.youtube.com/watch?v=TIHXGwRTMWI\"&gt;Android themes &amp;amp; styles demystified - Google I/O 2016 - YouTube&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://techblog.yahoo.co.jp/android/201606_kuroobi_book/\"&gt;「黒帯エンジニアが教えるプロの技術 Android開発の教科書」を執筆しました - Yahoo! JAPAN Tech Blog&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://developer.android.com/reference/android/support/design/widget/NavigationView.html\"&gt;NavigationView | Android Developers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://material.google.com/components/bottom-sheets.html?authuser=0\"&gt;Bottom sheets - Components - Google design guidelines&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://developer.android.com/reference/android/support/design/widget/CoordinatorLayout.html\"&gt;CoordinatorLayout | Android Developers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://tools.android.com/tech-docs/layout-editor\"&gt;New Layout Editor with Constraint Layout - Android Studio Project Site&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://github.com/google/flexbox-layout\"&gt;google/flexbox-layout: Flexbox for Android&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://github.com/konifar/fab-transformation\"&gt;konifar/fab-transformation: Support Floating Action Button transformation for Android&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://code.google.com/p/android/issues/list\"&gt;b.android.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Promotion&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://www.amazon.co.jp/Android/dp/4797385367/\"&gt;黒帯エンジニアが教えるプロの技術 Android開発の教科書&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Contact:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/dexfmpodcast\"&gt;@dexfmpodcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hydrakecat\"&gt;@hydrakecat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hotchemi\"&gt;@hotchemi&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/yuichi_araki\"&gt;@yuichi_araki&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src=\"http://feeds.feedburner.com/~r/dexfm/~4/dJLLUqJiw6U\"height=\"1\" width=\"1\" alt=\"\"/&gt;",
+    "link":"https://dexfm.tumblr.com/post/146881710908",
+    "pubDate":"Mon, 04 Jul 2016 14:07:27 +0900",
+    "contributor": [
+      {
+        "name": "hydrecat"
+      },
+      {
+        "name":"hotchemi"
+      },
+      {
+        "name":"yuichi_araki"
+      }
+    ],
+    "duration":"34:26",
+    "fileSize":"49605612",
+    "enclosure":"https://dexfm.github.io/mp3/dexfm-ep004-support-library-20160704.mp3"
+    },
+    {
+      "id":"4",
+      "title":"3: Team Android Development",
+      "subTitle":"@kgmyshinさんをゲストに迎えて、チーム開発、設計、DDD、育成などについて話しました。",
+      "description":"&lt;p&gt;&lt;a href=\"https://twitter.com/kgmyshin\"&gt;@kgmyshin&lt;/a&gt;さんをゲストに迎えて、チーム開発、設計、DDD、育成などについて話しました。&lt;/p&gt;&lt;p&gt;&lt;audio preload=\"auto\" controls src=\"https://dexfm.github.io/mp3/dexfm-ep003-team-development-20160613.mp3\"&gt;&lt;/audio&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"http://feeds.feedburner.com/dexfm\"&gt;podcast feed&lt;/a&gt;を購読するか、&lt;a href=\"https://dexfm.github.io/mp3/dexfm-ep003-team-development-20160613.mp3\" rel=\"enclosure\"&gt;DL&lt;/a&gt;してお楽しみ下さい。&lt;/p&gt;&lt;h2&gt;Show Notes:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://speakerdeck.com/kgmyshin/unskilled-team-development-for-android\"&gt;unskilled team development for android&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://tech.recruit-mp.co.jp/mobile/android-architecture/\"&gt;[ Android ] - これからの「設計」の話をしよう&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://tech.recruit-mp.co.jp/event/post-10069/\"&gt;[Google I/O 2016] より使いやすくなったDataBindingの新機能とTips紹介&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://hotchemi.hateblo.jp/entry/2016/04/28/024034\"&gt;モバイル開発組織変遷モデル&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Contact:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/dexfmpodcast\"&gt;@dexfmpodcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hydrakecat\"&gt;@hydrakecat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hotchemi\"&gt;@hotchemi&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/kgmyshin\"&gt;@kgmyshin&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src=\"http://feeds.feedburner.com/~r/dexfm/~4/oMuSI4N_RXg\" height=\"1\" width=\"1\" alt=\"\"/&gt;",
+    "link":"https://dexfm.tumblr.com/post/145812905128",
+    "pubDate":"Mon, 13 Jun 2016 02:51:37 +0900",
+    "contributor": [
+      {
+        "name": "hydrecat"
+      },
+      {
+        "name":"hotchemi"
+      },
+      {
+        "name":"kgmyshin"
+      }
+    ],
+    "duration":"28:37",
+    "fileSize":"41235352",
+    "enclosure":"https://dexfm.github.io/mp3/dexfm-ep003-team-development-20160613.mp3"
+    },
+    {
+      "id":"3",
+      "title":"2: Google I/O 2016",
+      "subTitle":"@kgmyshinさんをゲストに迎えてGoogleI/O、Instant Apps、Android Studio 2.2 Previewなどについて話しました。",
+      "description":"&lt;p&gt;&lt;a href=\"https://twitter.com/kgmyshin\"&gt;@kgmyshin&lt;/a&gt;さんをゲストに迎えてGoogleI/O、Instant Apps、Android Studio 2.2 Previewなどについて話しました。&lt;/p&gt;&lt;p&gt;&lt;audio preload=\"auto\" controls src=\"https://dexfm.github.io/mp3/dexfm-ep002-google-io-20160606.mp3\"&gt;&lt;/audio&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"http://feeds.feedburner.com/dexfm\"&gt;podcast feed&lt;/a&gt;を購読するか、&lt;a href=\"https://dexfm.github.io/mp3/dexfm-ep002-google-io-20160606.mp3\" rel=\"enclosure\"&gt;DL&lt;/a&gt;してお楽しみ下さい。&lt;/p&gt;&lt;h2&gt;Show Notes:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://events.google.com/io2016/\"&gt;GoogleI/O 2016&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/queencodemonkey/status/733717332611059712\"&gt;Android podcasters unite!&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://developer.android.com/topic/instant-apps/index.html\"&gt;Android Instant Apps&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"http://techbooster.org/android/application/17376/\"&gt;インストール不要のネイティブアプリ：ANDROID INSTANT APPS&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://android-developers.blogspot.jp/2016/05/android-studio-22-preview-new-ui.html\"&gt;Android Studio 2.2 Preview - New UI Designer &amp;amp; Constraint Layout&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"http://tools.android.com/tech-docs/layout-editor\"&gt;New Layout Editor with Constraint Layout&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://tech.recruit-mp.co.jp/event/post-10235/\"&gt;[Google I/O 2016] ConstraintLayout ~ Android の新 Layout&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://speakerdeck.com/hkurokawa/android-studio-2-dot-2-and-beyond\"&gt;Android Studio 2.2 and Beyond&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://www.firebase.com/\"&gt;Firebase&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://developers.google.com/awareness/\"&gt;Google Awareness API&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Contact:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/dexfmpodcast\"&gt;@dexfmpodcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hydrakecat\"&gt;@hydrakecat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hotchemi\"&gt;@hotchemi&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/kgmyshin\"&gt;@kgmyshin&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src=\"http://feeds.feedburner.com/~r/dexfm/~4/2ubbx10SOAA\" height=\"1\" width=\"1\" alt=\"\"/&gt;",
+    "link":"https://dexfm.tumblr.com/post/145447278503",
+    "pubDate":"Sun, 05 Jun 2016 19:06:32 +0900",
+    "contributor": [
+      {
+        "name": "hydrecat"
+      },
+      {
+        "name":"hotchemi"
+      },
+      {
+        "name":"kgmyshin"
+      }
+    ],
+    "duration":"29:05",
+    "fileSize":"41891757",
+    "enclosure":"https://dexfm.github.io/mp3/dexfm-ep002-google-io-20160606.mp3"
+    },
+    {
+      "id":"2",
+      "title":"1.5: Agera",
+      "subTitle":"Google が出したライブラリ ageraについて話しました。",
+      "description":"&lt;p&gt;Google が出したライブラリ &lt;a href=\"https://github.com/google/agera\"&gt;agera&lt;/a&gt; について話しました。&lt;/p&gt;&lt;p&gt;&lt;audio preload=\"auto\" controls src=\"https://dexfm.github.io/mp3/dexfm-ep001-agera-20160501.mp3\"&gt;&lt;/audio&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"http://feeds.feedburner.com/dexfm\"&gt;podcast feed&lt;/a&gt;を購読するか、&lt;a href=\"https://dexfm.github.io/mp3/dexfm-ep001-agera-20160501.mp3\" rel=\"enclosure\"&gt;DL&lt;/a&gt;してお楽しみ下さい。&lt;/p&gt;&lt;h2&gt;Show Notes:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://github.com/google/agera/\"&gt;google/agera: Reactive Programming for Android&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/akarnokd/status/722464132725882880\"&gt;David Karnok&amp;rsquo;s Tweet: &amp;ldquo;I&amp;rsquo;m sorry, Agera looks like an 0.5th gen reactive library (RxJava is 2nd gen).&amp;rdquo;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://github.com/google/agera/issues/20#issuecomment-212007539\"&gt;Question: what&amp;rsquo;s the relation to RxJava? · Issue #20 · google/agera&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://fragmentedpodcast.com/episodes/37/\"&gt;037: Decompress 1 : Xcode, Fonts sizes, Testing and yes Agera! – Fragmented&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://akarnokd.blogspot.jp/2016/04/google-agera-vs-reactivex.html\"&gt;Advanced RxJava: Google Agera vs. ReactiveX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Contact:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/dexfmpodcast\"&gt;@dexfmpodcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hydrakecat\"&gt;@hydrakecat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hotchemi\"&gt;@hotchemi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src=\"http://feeds.feedburner.com/~r/dexfm/~4/3yKKx2bqACI\" height=\"1\" width=\"1\" alt=\"\"/&gt;",
+    "link":"https://dexfm.tumblr.com/post/143911768293",
+    "pubDate":"Fri, 06 May 2016 07:08:28 +0900",
+    "contributor": [
+      {
+        "name": "hydrecat"
+      },
+      {
+        "name":"hotchemi"
+      }
+    ],
+    "duration":"14:56",
+    "fileSize":"14340933",
+    "enclosure":">https://dexfm.github.io/mp3/dexfm-ep001-agera-20160501.mp"
+    },
+    {
+      "id":"1",
+      "title":"1: N developer preview",
+      "subTitle":"N developer preview, Multi-Window Support, Java8などについて話しました。",
+      "description":"&lt;p&gt;N developer preview, Multi-Window Support, Java8などについて話しました。&lt;/p&gt;&lt;p&gt;&lt;audio preload=\"auto\" controls src=\"https://dexfm.github.io/mp3/dexfm-ep001-n-developer-preview-20160501.mp3\"&gt;&lt;/audio&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=\"http://feeds.feedburner.com/dexfm\"&gt;podcast feed&lt;/a&gt;を購読するか、&lt;a href=\"https://dexfm.github.io/mp3/dexfm-ep001-n-developer-preview-20160501.mp3\" rel=\"enclosure\"&gt;DL&lt;/a&gt;してお楽しみ下さい。&lt;/p&gt;&lt;h2&gt;Show Notes:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://events.withgoogle.com/google-developers-summit-tokyo-2016-android/\"&gt;Google Developers Summit Tokyo 2016 : Android&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"http://yaraki.github.io/slides/gds-2016q2/index.html\"&gt;Android N What’s New + Support Library update&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://developer.android.com/preview/index.html\"&gt;Android N Developer Preview | Android Developers&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://www.youtube.com/watch?v=CsulIu3UaUM\"&gt;What’s New in Android N - YouTube&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://developer.android.com/preview/features/multi-window.html\"&gt;Multi-Window Support | Android Developers&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://code.google.com/p/android/issues/detail?id=177410&amp;amp;q=onStop%20phone%20call&amp;amp;colspec=ID%20Status%20Priority%20Owner%20Summary%20Stars%20Reporter%20Opened\"&gt;Issue 177410 - android - onStop() method is not called in Lollipop when phone call received and answered&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://developer.android.com/preview/j8-jack.html\"&gt;Java 8 Language Features | Android Developers&lt;/a&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"http://tools.android.com/tech-docs/jackandjill\"&gt;Jack and Jill - Android Studio Project Site&lt;/a&gt; &lt;/li&gt;&lt;li&gt;&lt;a href=\"https://github.com/orfjackal/retrolambda\"&gt;orfjackal/retrolambda&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://github.com/aNNiMON/Lightweight-Stream-API\"&gt;aNNiMON/Lightweight-Stream-API&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"http://blog.jetbrains.com/jp/2016/03/30/639\"&gt;Android向けKotlinのロードマップ | JetBrains ブログ&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;Contact:&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/dexfmpodcast\"&gt;@dexfmpodcast&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hydrakecat\"&gt;@hydrakecat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=\"https://twitter.com/hotchemi\"&gt;@hotchemi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img src=\"http://feeds.feedburner.com/~r/dexfm/~4/AeKWAFGl200\" height=\"1\" width=\"1\" alt=\"\"/&g;",
+    "link":"https://dexfm.tumblr.com/post/143675501913",
+    "pubDate":"Mon, 02 May 2016 01:13:11 +0900",
+    "contributor": [
+      {
+        "name": "hydrecat"
+      },
+      {
+        "name":"hotchemi"
+      }
+    ],
+    "duration":"33:17",
+    "fileSize":"31967526",
+    "enclosure":"https://dexfm.github.io/mp3/dexfm-ep001-n-developer-preview-20160501.mp3"
+    }
+  ]
+}
